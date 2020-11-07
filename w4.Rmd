@@ -1,0 +1,100 @@
+---
+title: "w4"
+author: "N S Karthik"
+date: "07/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+The given question consist of varables like aoole and boll
+
+Because of the given curcumstences the output can be given by taking the individual inputs
+
+If the instance is aa bb cc then this case would be cc bb aa
+
+By taking the given values we can predict the final values
+
+In the current situation we can get negative as well as positive values
+
+the given range can be from tn to twenty both values
+
+What if the crosstalk is used instead of crayon function
+
+The given question consist of varables like aoole and boll
+
+Because of the given curcumstences the output can be given by taking the individual inputs
+
+If the instance is aa bb cc then this case would be cc bb aa
+
+By taking the given values we can predict the final values
+
+In the current situation we can get negative as well as positive values
+
+the given range can be from tn to twenty both values
+
+What if the crosstalk is used instead of crayon function
+
+The given question consist of varables like aoole and boll
+
+Because of the given curcumstences the output can be given by taking the individual inputs
+
+If the instance is aa bb cc then this case would be cc bb aa
+
+By taking the given values we can predict the final values
+
+In the current situation we can get negative as well as positive values
+
+the given range can be from tn to twenty both values
+
+What if the crosstalk is used instead of crayon function
+
+The given question consist of varables like aoole and boll
+
+Because of the given curcumstences the output can be given by taking the individual inputs
+
+If the instance is aa bb cc then this case would be cc bb aa
+
+By taking the given values we can predict the final values
+
+In the current situation we can get negative as well as positive values
+
+the given range can be from tn to twenty both values
+
+What if the crosstalk is used instead of crayon function
+
+The conclusion can be drawn as the highest value from the data
+
+
+
+
+
+
+
+
+
+
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+crayon,crosstalk,curl can be used any time
+
+glue cannot be used everytime
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
